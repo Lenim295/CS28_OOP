@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run MiniStore (SQLite)",
+      "request": "launch",
+      "mainClass": "com.example.ministore.Main",
+      "projectName": "ministore-sqlite",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
